@@ -20,7 +20,7 @@ Ensure you have the following set up:
 ## 🛠️ Installation
 
 1. **Clone the repository:**
-git clone https://github.com/your-username/basic-crudAPI-with-nodemailer.git
+git clone https://github.com/Amodmathapati/basic-crudAPI-with-nodemailer.git
 
 
 2. **Navigate to the project directory:**
